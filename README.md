@@ -8,7 +8,7 @@ You can preview live demo [HERE](http://viskon.bilgem.tubitak.gov.tr/terrain/Tes
 
 You can get the source DEM data used for the showcase [HERE](http://naturalearth.springercarto.com/ne3_data/dem_large.zip)
 
-Comments and inputs are quite welcome.
+Comments and inputs are quite welcome. You can follow progress from issues and here
 
 ## Showcases
 
