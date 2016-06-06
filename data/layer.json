@@ -1,0 +1,10 @@
+{
+    "tilejson": "2.1.0",
+    "format": "quantized-mesh-1.0",
+    "version": "1.1.0",
+    "scheme": "tms",
+    "tiles": ["{z}/{x}/{y}.terrain?v={version}"],
+    "attribution": "Terrain Data,Author: Muhammed Kalkan",
+    "projection": "EPSG:4326",
+    "bounds": [0.0,90.0,180.0,-90.0]
+}
