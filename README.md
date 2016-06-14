@@ -35,6 +35,7 @@ CTGAS is usable at the moment as it is and have following features
 3. Interface to manage application
 4. Code refactoring
 
-## FUTURE WORK
 
+## FUTURE WORK
+1. Standalone server implementation 
  Java and C++ porting of the software can be easily done. 
