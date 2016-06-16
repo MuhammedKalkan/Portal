@@ -28,14 +28,15 @@ CTGAS is usable at the moment as it is and have following features
 4. Multicore tile generation support
 5. Tile Server in order to serve produced tiles
 
-
+## IN PROGRESS
+ Data source merge and updating (Generating and merging newly incoming data)
 ## TODO
-1. Data source merge and updating (Generating and merging newly incoming data)
-2. Extensions coding
-3. Interface to manage application
-4. Code refactoring
+1. Extensions coding
+2. Interface to manage application
+3. Code refactoring
 
 
 ## FUTURE WORK
-1. Standalone server implementation 
+1. Standalone server implementation
+
  Java and C++ porting of the software can be easily done. 
