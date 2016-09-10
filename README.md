@@ -4,7 +4,7 @@ CTGAS is a software that produces terrain data to be served primarily for [Cesiu
 CTGAS is written in Javascript just like Cesium itself. Cross platform and easy to install and use. 
 As much as it is usable, there are lots of things to do so the source will be pending until it is ready to be released.
 
-You can preview live demo [HERE](http://viskon.bilgem.tubitak.gov.tr/terrain/Test.html)  (Change map provider if you cant see globe)
+You can preview live demo [HERE](http://viskon.bilgem.tubitak.gov.tr/terrain/Test.html)  (Change map provider at upper right corner if you cant see globe)
 
 You can get the source DEM data used for the showcase [HERE](http://naturalearth.springercarto.com/ne3_data/dem_large.zip)
 
