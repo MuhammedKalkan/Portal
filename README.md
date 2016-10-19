@@ -45,7 +45,7 @@ CTGAS is usable at the moment as it is and have following features
 
  Java and C++ porting of the software can be easily done. 
  
- ## Old Version Showcases (No Longer Available)
+## Old Version Showcases (No Longer Available)
 
 ![Quantized Mesh Rendered North America](https://dl.dropboxusercontent.com/s/qtuosbpvoxysghj/1.png?dl=0)
 ![Quantized Mesh Wireframe](https://dl.dropboxusercontent.com/s/i9i7996xu5fg28s/2.png?dl=0)
