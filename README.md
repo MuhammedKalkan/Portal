@@ -14,6 +14,7 @@ Comments and inputs are quite welcome. You can follow progress from issues and h
 I would like to announce that generation algortihm and bugs are getting fixed. A new tileset has been generated and uploaded on the live stream. You can check it out and comment about your opinions.
 
 Cracks has been fixed and earth shape is now better preserved.
+Data contains information that is just to get 7 levels deeper into tiles.
 
 
 Here are a few scenes that shows tile details. You can browse live demo from the link up.
