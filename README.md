@@ -10,12 +10,11 @@ You can get the source DEM data used for the showcase [HERE](http://naturalearth
 
 Comments and inputs are quite welcome. You can follow progress from issues and here
 
-## New Version Alpha
+## Latest News (01.01.2017 00.20)
+I would like to announce that generation algortihm and bugs are getting fixed. A new tileset has been generated and uploaded on the live stream. You can check it out and comment about your opinions.
 
-I have declared before that algorithm would change in future and i have been working on that for some time now. Development is still ongoing but i have decided to put it up online for a showcase demo. Since almost the entire software changed, there are features that need reimplementing such as multicore and data merge. After mesh generation is good enough to use these two will take turns. There are some flaws in generated terrain for now but hopefully it will come around.
+Cracks has been fixed and earth shape is now better preserved.
 
-Data source is same as before and can be downloaded from the link.
-TIF support is removed since i actually dont see any use for it.
 
 Here are a few scenes that shows tile details. You can browse live demo from the link up.
 
