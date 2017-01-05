@@ -10,16 +10,21 @@ You can get the source DEM data used for the showcase [HERE](http://naturalearth
 
 Comments and inputs are quite welcome. You can follow progress from issues and here
 
-## Latest News (01.01.2017 00.20)
+## Latest News (05.01.2017)
 I would like to announce that generation algortihm and bugs are getting fixed. A new tileset has been generated and uploaded on the live stream. You can check it out and comment about your opinions.
 
 Cracks has been fixed and earth shape is now better preserved.
 Data contains information that is just to get 7 levels deeper into tiles.
 
-
 Here are a few scenes that shows tile details. You can browse live demo from the link up.
 
 ![Quantized Mesh Rendered Papua](https://dl.dropboxusercontent.com/s/f9dvgh7nwjpms60/6.png?dl=0)
+
+Example of 5 meters resolution data. Untouched and simplified respectively.
+
+![Original] (https://dl.dropboxusercontent.com/s/hiqz0kaudkqm7dr/original.png?dl=0)
+
+![Simplified](https://dl.dropboxusercontent.com/s/enyl92o6yuod7cq/simple.png?dl=0)
 
 ## Features
 
