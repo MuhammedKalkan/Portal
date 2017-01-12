@@ -10,11 +10,10 @@ You can get the source DEM data used for the showcase [HERE](http://naturalearth
 
 Comments and inputs are quite welcome. You can follow progress from issues and here
 
-## Latest News (05.01.2017)
-I would like to announce that generation algortihm and bugs are getting fixed. A new tileset has been generated and uploaded on the live stream. You can check it out and comment about your opinions.
+## Latest News (12.01.2017)
+Live demo is updated and populated with multiple data sets. Missing datasets will be online soon enough.
 
-Cracks has been fixed and earth shape is now better preserved.
-Data contains information that is just to get 7 levels deeper into tiles.
+Currently there are 2 datasets both in Heightmap and QuantizedMesh format.
 
 Here are a few scenes that shows tile details. You can browse live demo from the link up.
 
