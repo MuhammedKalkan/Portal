@@ -1,4 +1,4 @@
-# Cesium Terrain Generator And Server (CTGAS)
+# Terrain Generator And Server (TGS)
 CTGAS is a software that produces terrain data to be served primarily for [CesiumJS](cesiumjs.org) library.
 
 CTGAS is written in Javascript just like Cesium itself. Cross platform and easy to install and use. 
