@@ -19,12 +19,6 @@ Here are a few scenes that shows tile details. You can browse live demo from the
 
 ![Quantized Mesh Rendered Papua](https://dl.dropboxusercontent.com/s/f9dvgh7nwjpms60/6.png?dl=0)
 
-Example of 5 meters resolution data. Untouched and simplified respectively.
-
-![Original] (https://dl.dropboxusercontent.com/s/hiqz0kaudkqm7dr/original.png?dl=0)
-
-![Simplified](https://dl.dropboxusercontent.com/s/enyl92o6yuod7cq/simple.png?dl=0)
-
 ## Features
 
 CTGAS is usable at the moment as it is and have following features
