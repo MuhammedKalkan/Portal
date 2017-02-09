@@ -30,15 +30,3 @@ CTGAS is usable at the moment as it is and have following features
 5. Multicore tile generation support
 6. Tile Server in order to serve produced tiles
 
-## IN PROGRESS
- Cesium terrain server like mesh generation
-## TODO
-1. Extensions coding
-2. Interface to manage application
-3. Code refactoring
-
-
-## FUTURE WORK
-1. Standalone server implementation
-
- Java and C++ porting of the software can be easily done. 
