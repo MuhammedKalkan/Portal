@@ -10,10 +10,17 @@ You can get the source DEM data used for the showcase [HERE](http://naturalearth
 
 Comments and inputs are quite welcome. You can follow progress from issues and here
 
-## Latest News (12.01.2017)
-Live demo is updated and populated with multiple data sets. Missing datasets will be online soon enough.
+## Latest News (13.02.2017)
 
-Currently there are 2 datasets both in Heightmap and QuantizedMesh format.
+Live demo is updated and populated with latest data sets.
+
+Currently there are 2 datasets in Heightmap and QuantizedMesh format.
+
+Quantized Mesh dataset is derived from GTOPO30 sources. It has 1km resolution approx. for the whole world. Moreover it is produced with original algorithm. Therefore i believe it is identical with the Cesium one. They have added more data onto it so might be slight differences.
+
+This dataset is detailed up to LEVEL 9 (9 Included) and consists of nearly 700K tile files. I have added this whole tileset available for download.
+
+You can download [GTOPO30 Quantized Mesh Tileset](https://dl.dropboxusercontent.com/s/mplbvp84qtw6kko/Gtopo30QuantizedMesh.zip)
 
 Here are a few scenes that shows tile details. You can browse live demo from the link up.
 
