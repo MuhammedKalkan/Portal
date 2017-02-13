@@ -16,7 +16,7 @@ Live demo is updated and populated with latest data sets.
 
 Currently there are 2 datasets in Heightmap and QuantizedMesh format.
 
-Quantized Mesh dataset is derived from GTOPO30 sources. It has 1km resolution approx. for the whole world. Moreover it is produced with original algorithm. Therefore i believe it is identical with the Cesium one. They have added more data onto it so might be slight differences.
+Quantized Mesh dataset is derived from GTOPO30 sources. It has 1km resolution approx. for the whole world. Moreover it is produced via new algorithm therefore i believe it is identical with the Cesium one. They have added more data onto it so might be slight differences.
 
 This dataset is detailed up to LEVEL 9 (9 Included) and consists of nearly 700K tile files. I have added this whole tileset available for download.
 
