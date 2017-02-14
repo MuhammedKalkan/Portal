@@ -10,6 +10,8 @@ You can get the source DEM data used for the showcase Heightmap [HERE](http://na
 
 You can get the source DEM data used for the showcase Quantized Mesh [HERE](https://lta.cr.usgs.gov/GTOPO30)
 
+Try dataset on newest Cesium Version [HERE] (http://cesiumjs.org/Cesium/Apps/Sandcastle/?src=Hello%20World.html&label=Showcases&gist=35700c25799f93225d0c521a20272d7e)
+
 Comments and inputs are quite welcome. You can follow progress from issues and here
 
 ## Latest News (13.02.2017)
@@ -20,7 +22,7 @@ Currently there are 2 datasets in Heightmap and QuantizedMesh format.
 
 Quantized Mesh dataset is derived from GTOPO30 sources. It has 1km resolution approx. for the whole world and i believe this tileset is identical with the Cesium one. They have added more data onto it so might be slight differences.
 
-This dataset is detailed up to LEVEL 9 (9 Included) and consists of nearly 700K tile files. I have added this whole tileset available for download.
+This dataset is detailed up to LEVEL 9  and consists of nearly 700K tile files. I have added this whole tileset available for download.
 
 You can download [GTOPO30 Quantized Mesh Tileset](https://dl.dropboxusercontent.com/s/mplbvp84qtw6kko/Gtopo30QuantizedMesh.zip)
 
