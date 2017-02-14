@@ -6,7 +6,8 @@ As much as it is usable, there are lots of things to do so the source will be pe
 
 You can preview live demo [HERE](http://www.terrainserver.com/) 
 
-You can get the source DEM data used for the showcase [HERE](http://naturalearth.springercarto.com/ne3_data/dem_large.zip)
+You can get the source DEM data used for the showcase Heightmap[HERE](http://naturalearth.springercarto.com/ne3_data/dem_large.zip)
+You can get the source DEM data used for the showcase Quantized Mesh[HERE](https://lta.cr.usgs.gov/GTOPO30)
 
 Comments and inputs are quite welcome. You can follow progress from issues and here
 
