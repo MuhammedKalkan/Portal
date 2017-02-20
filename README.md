@@ -18,6 +18,9 @@ Comments and inputs are quite welcome. You can follow progress from issues and h
 
 ## Latest News (20.02.2017)
 
+Everest and wide around it has been generated using SRTM 30 data. You can check it out from [HERE] (http://cesiumjs.org/Cesium/Apps/Sandcastle/?src=Hello%20World.html&label=Showcases&gist=35700c25799f93225d0c521a20272d7e)
+.
+
 Now there is a blog about this project which will get updates more frequently [HERE](http://terrainserver.blogspot.com.tr).
 
 Currently there are 2 datasets in Heightmap and QuantizedMesh format.
