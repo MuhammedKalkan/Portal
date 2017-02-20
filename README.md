@@ -14,9 +14,9 @@ Try dataset on newest Cesium Version [HERE] (http://cesiumjs.org/Cesium/Apps/San
 
 Comments and inputs are quite welcome. You can follow progress from issues and here
 
-## Latest News (13.02.2017)
+## Latest News (20.02.2017)
 
-Live demo is updated and populated with latest data sets.
+Now there is a blog about this project which will get updates more frequently (HERE)[http://terrainserver.blogspot.com.tr/].
 
 Currently there are 2 datasets in Heightmap and QuantizedMesh format.
 
