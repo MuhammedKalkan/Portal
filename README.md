@@ -16,7 +16,7 @@ Comments and inputs are quite welcome. You can follow progress from issues and h
 
 ## Latest News (20.02.2017)
 
-Now there is a blog about this project which will get updates more frequently (HERE)[http://terrainserver.blogspot.com.tr/].
+Now there is a blog about this project which will get updates more frequently [HERE](http://terrainserver.blogspot.com.tr).
 
 Currently there are 2 datasets in Heightmap and QuantizedMesh format.
 
