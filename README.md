@@ -4,6 +4,8 @@ TGS is a software that produces terrain data to be served primarily for [CesiumJ
 TGS is written in Javascript just like Cesium itself. Cross platform and easy to install and use. 
 As much as it is usable, there are lots of things to do so the source will be pending until it is ready to be released.
 
+Blog about the project [HERE](http://terrainserver.blogspot.com.tr).
+
 You can preview live demo [HERE](http://www.terrainserver.com/) 
 
 You can get the source DEM data used for the showcase Heightmap [HERE](http://naturalearth.springercarto.com/ne3_data/dem_large.zip)
