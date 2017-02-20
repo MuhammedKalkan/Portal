@@ -16,9 +16,9 @@ Try dataset on newest Cesium Version [HERE] (http://cesiumjs.org/Cesium/Apps/San
 
 Comments and inputs are quite welcome. You can follow progress from issues and here
 
-## Latest News (20.02.2017)
+## Latest News (21.02.2017)
 
-Everest and wide around it has been generated using SRTM 30 data. You can check it out from [HERE] (http://cesiumjs.org/Cesium/Apps/Sandcastle/?src=Hello%20World.html&label=Showcases&gist=35700c25799f93225d0c521a20272d7e)
+Everest and wide around it has been generated using SRTM 30 data. You can check it out from and compare it with the STK Terrain [HERE]  (http://cesiumjs.org/Cesium/Apps/Sandcastle/?src=Hello%20World.html&label=Showcases&gist=35700c25799f93225d0c521a20272d7e)
 .
 
 Now there is a blog about this project which will get updates more frequently [HERE](http://terrainserver.blogspot.com.tr).
