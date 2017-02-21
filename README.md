@@ -4,7 +4,7 @@ TGS is a software that produces terrain data to be served primarily for [CesiumJ
 TGS is written in Javascript just like Cesium itself. Cross platform and easy to install and use. 
 As much as it is usable, there are lots of things to do so the source will be pending until it is ready to be released.
 
-Blog about the project [HERE](http://terrainserver.blogspot.com.tr).
+Blog about the project [HERE](http://blog.terrainserver.com/).
 
 You can preview live demo [HERE](http://www.terrainserver.com/) 
 
@@ -21,7 +21,7 @@ Comments and inputs are quite welcome. You can follow progress from issues and h
 Everest and wide around it has been generated using SRTM 30 data. You can check it out from and compare it with the STK Terrain [HERE]  (http://cesiumjs.org/Cesium/Apps/Sandcastle/?src=Hello%20World.html&label=Showcases&gist=35700c25799f93225d0c521a20272d7e)
 .
 
-Now there is a blog about this project which will get updates more frequently [HERE](http://terrainserver.blogspot.com.tr).
+Now there is a blog about this project which will get updates more frequently [HERE](http://blog.terrainserver.com/).
 
 Currently there are 2 datasets in Heightmap and QuantizedMesh format.
 
