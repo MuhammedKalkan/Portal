@@ -17,8 +17,6 @@ Comments and inputs are quite welcome. You can follow progress from issues and h
 
 ## Latest News (12.03.2017)
 
-Please visit blog and share your ideas about "Is there a matter with Matterhorn?" [HERE](http://blog.terrainserver.com/).
-
 Server migration and database generation / migration on progress. So live tilesets might be offline time to time.
 
 Everest and wide around it has been generated using SRTM 30 data. You can check it out from and compare it with the STK Terrain [HERE](http://cesiumjs.org/Cesium/Apps/Sandcastle/?src=Hello%20World.html&label=Showcases&gist=35700c25799f93225d0c521a20272d7e)
