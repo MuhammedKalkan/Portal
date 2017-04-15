@@ -19,7 +19,7 @@ Comments and inputs are quite welcome. You can follow progress from issues and h
 
 Server migration and database generation / migration on progress. So live tilesets might be offline or some details missing time to time.
 
-Water mask initial implementation results released. 
+Water mask initial implementation results released. See blog for more details. 
 
 Quantized Mesh dataset is derived from GTOPO30 sources. It has 1km resolution approx. for the whole world and i believe this tileset is identical with the Cesium one. They have added more data onto it so might be slight differences.
 
