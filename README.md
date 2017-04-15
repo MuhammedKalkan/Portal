@@ -15,14 +15,11 @@ Try dataset on newest Cesium Version [HERE](http://cesiumjs.org/Cesium/Apps/Sand
 
 Comments and inputs are quite welcome. You can follow progress from issues and here
 
-## Latest News (12.03.2017)
+## Latest News (16.04.2017)
 
 Server migration and database generation / migration on progress. So live tilesets might be offline or some details missing time to time.
 
-Everest and wide around it has been generated using SRTM 30 data. You can check it out from and compare it with the STK Terrain [HERE](http://cesiumjs.org/Cesium/Apps/Sandcastle/?src=Hello%20World.html&label=Showcases&gist=35700c25799f93225d0c521a20272d7e)
-.
-
-Currently there are 2 datasets in Heightmap and QuantizedMesh format.
+Water mask initial implementation results released. 
 
 Quantized Mesh dataset is derived from GTOPO30 sources. It has 1km resolution approx. for the whole world and i believe this tileset is identical with the Cesium one. They have added more data onto it so might be slight differences.
 
