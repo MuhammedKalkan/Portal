@@ -1,8 +1,6 @@
 # Terrain Generator And Server (TGS)
 TGS is a software that produces terrain data to be served primarily for [CesiumJS](cesiumjs.org) library.
 
-TGS is written in Javascript just like Cesium itself and planned  to be free of use.
-
 Blog about the project [HERE](http://blog.terrainserver.com/).
 
 You can preview live demo [HERE](http://www.terrainserver.com/) 
@@ -25,9 +23,9 @@ This dataset is detailed up to LEVEL 9  and consists of nearly 700K tile files. 
 
 You can download [GTOPO30 Quantized Mesh Tileset](https://dl.dropboxusercontent.com/s/mplbvp84qtw6kko/Gtopo30QuantizedMesh.zip)
 
-![Quantized Mesh Rendered Papua](https://dl.dropboxusercontent.com/s/f9dvgh7nwjpms60/6.png?dl=0)
 
 ## Features
+![Quantized Mesh Rendered Papua](https://dl.dropboxusercontent.com/s/f9dvgh7nwjpms60/6.png?dl=0)
 
 CTGAS is usable at the moment as it is and have following features
 
