@@ -7,11 +7,7 @@ Blog about the project [HERE](http://blog.terrainserver.com/).
 
 You can preview live demo [HERE](http://www.terrainserver.com/) 
 
-You can get the source DEM data used for the showcase Heightmap [HERE](http://naturalearth.springercarto.com/ne3_data/dem_large.zip)
-
-You can get the source DEM data used for the showcase Quantized Mesh [HERE](https://lta.cr.usgs.gov/GTOPO30)
-
-Try dataset on newest Cesium Version [HERE](http://cesiumjs.org/Cesium/Apps/Sandcastle/?src=Hello%20World.html&label=Showcases&gist=35700c25799f93225d0c521a20272d7e)
+Try dataset on newest Cesium Version [HERE](http://cesiumjs.org/Cesium/Apps/Sandcastle/index.html?src=Hello%20World.html&label=Showcases&gist=35700c25799f93225d0c521a20272d7e)
 
 Comments and inputs are quite welcome. You can follow progress from issues and here
 
@@ -21,13 +17,13 @@ Server migration and database generation / migration on progress. So live tilese
 
 Water mask initial implementation results released. See blog for more details. 
 
-Quantized Mesh dataset is derived from GTOPO30 sources. It has 1km resolution approx. for the whole world and i believe this tileset is identical with the Cesium one. They have added more data onto it so might be slight differences.
+## Published Tile Sets
+### GTOPO 30
+Initial dataset is derived from GTOPO30 sources. It has 1km resolution approx. for the whole world and i believe this tileset is identical with the Cesium one. They have added more data onto it so might be slight differences.
 
 This dataset is detailed up to LEVEL 9  and consists of nearly 700K tile files. I have added this whole tileset available for download.
 
 You can download [GTOPO30 Quantized Mesh Tileset](https://dl.dropboxusercontent.com/s/mplbvp84qtw6kko/Gtopo30QuantizedMesh.zip)
-
-Here are a few scenes that shows tile details. You can browse live demo from the link up.
 
 ![Quantized Mesh Rendered Papua](https://dl.dropboxusercontent.com/s/f9dvgh7nwjpms60/6.png?dl=0)
 
