@@ -11,8 +11,6 @@ Comments and inputs are quite welcome. You can follow progress from issues and h
 
 ## Latest News (16.04.2017)
 
-Server migration and database generation / migration on progress. So live tilesets might be offline or some details missing time to time.
-
 Water mask initial implementation results released. See blog for more details. 
 
 ## Published Tile Sets
@@ -26,13 +24,3 @@ You can download [GTOPO30 Quantized Mesh Tileset](https://dl.dropboxusercontent.
 
 ## Features
 ![Quantized Mesh Rendered Papua](https://dl.dropboxusercontent.com/s/f9dvgh7nwjpms60/6.png?dl=0)
-
-CTGAS is usable at the moment as it is and have following features
-
-1. **Heightmap** format terrain tile generation
-2. **Quantized Mesh** format terrain tile generation
-3. **KML** format terrain tile generation
-4. Mesh Simplification Algorithm for tile generation
-5. Multicore tile generation support
-6. Tile Server in order to serve produced tiles
-
