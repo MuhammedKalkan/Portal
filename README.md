@@ -9,7 +9,7 @@ Try dataset on newest Cesium Version [HERE](http://cesiumjs.org/Cesium/Apps/Sand
 
 Comments and inputs are quite welcome. You can follow progress from issues and here
 
-## Latest News (16.04.2017)
+## Latest News (28.04.2017)
 
 Links fixed with new landmark. See blog for more details.
 
