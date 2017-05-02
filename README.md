@@ -1,6 +1,8 @@
 # Terrain Generator And Server (TGS)
 TGS is a software that produces terrain data to be served primarily for [CesiumJS](cesiumjs.org) library.
 
+Twitter page [HERE](https://twitter.com/TerrainServer)
+
 Blog about the project [HERE](http://blog.terrainserver.com/).
 
 You can preview live demo [HERE](http://www.terrainserver.com/) 
