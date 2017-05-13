@@ -11,12 +11,26 @@ Try dataset on newest Cesium Version [HERE](http://cesiumjs.org/Cesium/Apps/Sand
 
 Comments and inputs are quite welcome. You can follow progress from issues and here
 
-## Latest News (28.04.2017)
+## Latest News (13.05.2017)
 
-Links fixed with new landmark. See blog for more details.
+New tilesets on server added.
 
 ## Published Tile Sets
-### GTOPO 30
+Note that this tilesets are for testing purposes. An Alpha version.
+
+### NED 10m
+10 meters resolution for US, Monument Valley area only is now live on server. 
+
+### New Zealand
+8 meters resolution for whole New Zealand is now live on server
+
+### Norway
+10 meters resolution for whole Norway is now live on server
+
+### SRTM 30
+This dataset includes 30 meters resolution between 60 / -60 latitudes. It is now live on server.
+
+### GTOPO
 Initial dataset is derived from GTOPO30 sources. It has 1km resolution approx. for the whole world and i believe this tileset is identical with the Cesium one. They have added more data onto it so might be slight differences.
 
 This dataset is detailed up to LEVEL 9  and consists of nearly 700K tile files. I have added this whole tileset available for download.
