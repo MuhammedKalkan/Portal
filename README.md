@@ -18,6 +18,9 @@ New tilesets on server added.
 ## Published Tile Sets
 Note that this tilesets are for testing purposes. An Alpha version.
 
+### PAMAP 1m
+1 meters resolution for US, Carbon County, PA area only is now live on server. 
+
 ### NED 10m
 10 meters resolution for US, Monument Valley area only is now live on server. 
 
