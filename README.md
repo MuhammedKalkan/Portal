@@ -9,8 +9,6 @@ You can preview live demo [HERE](http://www.terrainserver.com/)
 
 Try dataset on newest Cesium Version [HERE](http://cesiumjs.org/Cesium/Apps/Sandcastle/index.html?src=Hello%20World.html&label=Showcases&gist=eefdc854e2a97b1fabf55238c9d2342f)
 
-Help funding for development and server maintenance [HERE](https://www.patreon.com/terrainserver)
-
 Comments and inputs are quite welcome. You can follow progress from issues and here
 
 ## Latest News (13.05.2017)
