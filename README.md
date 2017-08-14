@@ -11,10 +11,6 @@ Try dataset on newest Cesium Version [HERE](http://cesiumjs.org/Cesium/Apps/Sand
 
 Comments and inputs are quite welcome. You can follow progress from issues and here
 
-Please donate for funding and developing further of this project
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NC8ZWWV2CTQ3L)
-
 ## Latest News (13.05.2017)
 
 New tilesets on server added.
