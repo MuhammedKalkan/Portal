@@ -7,7 +7,7 @@ Blog about the project [HERE](http://blog.terrainserver.com/).
 
 You can preview live demo [HERE](https://www.terrainserver.com/) 
 
-Try dataset on newest Cesium Version [HERE](https://cesiumjs.org/Cesium/Apps/Sandcastle/?src=Hello%20World.html&label=Showcases&gist=1cfe5af1d68cb0875354aaacae3d9d23)
+Try dataset on newest Cesium Version with comparison to Cesium Terrain Server data [HERE](https://cesiumjs.org/Cesium/Apps/Sandcastle/?src=Hello%20World.html&label=Showcases&gist=662d86203a93fab5f8385c0360d4d70b)
 
 Comments and inputs are quite welcome. You can follow progress from issues and here
 
