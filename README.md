@@ -11,12 +11,21 @@ Try dataset on newest Cesium Version with comparison to Cesium Terrain Server da
 
 Comments and inputs are quite welcome. You can follow progress from issues and here
 
-## Latest News (13.05.2017)
+## Features
+* Cesium STK Terrain Server dataset file format read support
+* Cesium STK Terrain Server dataset file format write support
+* Quantized Mesh format tile generation
+* KML format tile generation
+* Tile Lighting Support
+* Watermask Support
+* High Throughout Tile Server
 
-New tilesets on server added.
+## Latest News (16.09.2017)
+
+File Format Support Added
 
 ## Published Tile Sets
-Note that this tilesets are for testing purposes. An Alpha version.
+Note that these tilesets are for testing purposes. An Alpha version.
 
 ### PAMAP 1m
 1 meters resolution for US, Carbon County, PA area only is now live on server. 
