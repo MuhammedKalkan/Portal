@@ -18,7 +18,7 @@ Comments and inputs are quite welcome. You can follow progress from issues and h
 * KML format tile generation
 * Tile Lighting Support
 * Watermask Support
-* High Throughout Tile Server
+* High Throughput Tile Server
 
 ## Latest News (16.09.2017)
 
