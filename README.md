@@ -20,12 +20,20 @@ Comments and inputs are quite welcome. You can follow progress from issues and h
 * Watermask Support
 * High Throughput Tile Server
 
-## Latest News (16.09.2017)
+## Latest News (08.11.2017)
 
-File Format Support Added
+First Beta Tileset and Bathmetry Data Published
 
 ## Published Tile Sets
-Note that these tilesets are for testing purposes. An Alpha version.
+
+#### Note that these tilesets are for testing purposes. A Beta version.
+
+### Topo 15
+Elevation and Bathymetry data for whole wide world in 500m resolution
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+#### Note that these tilesets are for testing purposes. An Alpha version.
 
 ### PAMAP 1m
 1 meters resolution for US, Carbon County, PA area only is now live on server. 
