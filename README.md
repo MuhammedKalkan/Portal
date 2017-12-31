@@ -28,6 +28,9 @@ First Beta Tileset and Bathmetry Data Published
 
 #### Note that these tilesets are for testing purposes. A Beta version.
 
+### Mars
+232m resolution Mars elevation data, original Mars scale
+
 ### Topo 15
 Elevation and Bathymetry data for whole wide world in 500m resolution
 
