@@ -28,6 +28,12 @@ First Beta Tileset and Bathmetry Data Published
 
 #### Note that these tilesets are for testing purposes. A Beta version.
 
+### Mercury
+665m resolution Mercury elevation data, original Mercury scale
+
+### Moon
+118m resolution Moon elevation data, original Moon scale
+
 ### Mars
 232m resolution Mars elevation data, original Mars scale
 
