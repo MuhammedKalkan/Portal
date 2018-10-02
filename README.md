@@ -9,9 +9,9 @@ You can preview live demo [HERE](https://www.terrainserver.com/)
 
 ## Latest News (02.10.2018)
 
-First Tileset Released (https://twitter.com/TerrainServer/status/1047090899975659520)
+First Tileset Released [INFO](https://twitter.com/TerrainServer/status/1047090899975659520)
 
-World Tileset 90m whole world resolution is available for sale in order to support project. Lighting and Water extensions supported. Contact for details over Twitter. Preview link will be up soon.
+World Tileset 90m whole world resolution is available for sale in order to support project. Lighting and Water extensions supported. Contact for details over Twitter. Preview [HERE](https://www.terrainserver.com/world90m).
 
 ## Features
 * Cesium STK Terrain Server dataset file format read support
