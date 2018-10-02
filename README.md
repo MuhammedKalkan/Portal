@@ -7,9 +7,11 @@ Blog about the project [HERE](http://blog.terrainserver.com/).
 
 You can preview live demo [HERE](https://www.terrainserver.com/) 
 
-Try dataset on newest Cesium Version with comparison to Cesium Terrain Server data [HERE](https://cesiumjs.org/Cesium/Apps/Sandcastle/?src=Hello%20World.html&label=Showcases&gist=662d86203a93fab5f8385c0360d4d70b)
+## Latest News (02.10.2018)
 
-Comments and inputs are quite welcome. You can follow progress from issues and here
+First Tileset Released (https://twitter.com/TerrainServer/status/1047090899975659520)
+
+World Tileset 90m whole world resolution is available for sale. Lighting and Water extensions supported. Contact for details over Twitter. Preview link will be up soon.
 
 ## Features
 * Cesium STK Terrain Server dataset file format read support
@@ -19,10 +21,6 @@ Comments and inputs are quite welcome. You can follow progress from issues and h
 * Tile Lighting Support
 * Watermask Support
 * High Throughput Tile Server
-
-## Latest News (08.11.2017)
-
-First Beta Tileset and Bathmetry Data Published
 
 ## Published Tile Sets
 
