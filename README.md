@@ -25,10 +25,11 @@ World Tileset 90m whole world resolution is available for sale in order to suppo
 ## Published Tile Sets
 
 #### Releases
+
 ### World 90m
 90m whole world dataset. Extensions supported
 
-#### Note that these tilesets are for testing purposes. A Beta version.
+#### Beta versions
 
 ### Mercury
 665m resolution Mercury elevation data, original Mercury scale
@@ -44,7 +45,7 @@ Elevation and Bathymetry data for whole wide world in 500m resolution
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-#### Note that these tilesets are for testing purposes. An Alpha version.
+#### Alpha versions.
 
 ### PAMAP 1m
 1 meters resolution for US, Carbon County, PA area only is now live on server. 
