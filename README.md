@@ -1,5 +1,5 @@
-# Terrain Generator And Server (TGS)
-TGS is a software that produces terrain data to be served primarily for [CesiumJS](cesiumjs.org) library.
+# Planet Terrain Server (PTS)
+PTS is a software that produces terrain data to be served primarily for [CesiumJS](cesiumjs.org) library.
 
 Twitter page [HERE](https://twitter.com/TerrainServer)
 
@@ -7,7 +7,9 @@ Blog about the project [HERE](http://blog.terrainserver.com/).
 
 You can preview live demo [HERE](https://www.terrainserver.com/) 
 
-## Latest News (02.10.2018)
+## Latest News (18.10.2018)
+
+Vesta and Ceres asteroids are in 3D. Go to terrainserver.com to view them.
 
 First Tileset Released [INFO](https://twitter.com/TerrainServer/status/1047090899975659520)
 
