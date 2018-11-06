@@ -36,6 +36,7 @@ More will be joining to this high resolution dataset and improvements will be ma
 ❗ World Tileset 90m whole world resolution is available for sale in order to support project. Lighting and Water extensions supported. Contact for details over Twitter. Preview [HERE](https://www.terrainserver.com/world90m).
 
 ## Features
+* Cesium ION like terrain generation 
 * Cesium STK Terrain Server dataset file format read support
 * Cesium STK Terrain Server dataset file format write support
 * Quantized Mesh format tile generation
