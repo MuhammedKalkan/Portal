@@ -1,4 +1,7 @@
 # Planet Terrain Server (PTS)
+
+❗ High Resolution and 90 meters world tilesets are in sale to support the project. Contact if interested
+
 PTS is a software that produces terrain data to be served primarily for [CesiumJS](cesiumjs.org) library.
 
 Twitter page [HERE](https://twitter.com/TerrainServer)
