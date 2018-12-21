@@ -2,6 +2,8 @@
 
 ❗ High Resolution and 90 meters world tilesets are in sale to support the project. Contact if interested
 
+❗ Cesium ION Quality terrain is now live. You can see it on High resoluion terrain @ www.terrainserver.com
+
 PTS is a software that produces terrain data to be served primarily for [CesiumJS](cesiumjs.org) library.
 
 Twitter page [HERE](https://twitter.com/TerrainServer)
