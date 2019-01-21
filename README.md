@@ -2,7 +2,7 @@
 
 ❗ Support to go for public streaming server [HERE](https://paypal.me/pools/c/8bwL8zAsKS)
 
-❗ High Resolution and 90 meters world tilesets are in sale (offline usage) to support the project. Contact if interested
+❗ High Resolution and 90 meters world tilesets are in sale (offline usage) to support the project. Contact [HERE](mailto:kalkanikbal@gmail.com) if interested
 
 ❗ Cesium ION Quality terrain is now live. You can see it on High resoluion terrain @ www.terrainserver.com
 
