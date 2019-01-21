@@ -1,6 +1,6 @@
 # Planet Terrain Server (PTS)
 
-❗ Support to go for public streaming server [HERE](https://www.patreon.com/terrainserver)
+❗ Support to go for public streaming server [HERE](https://paypal.me/pools/c/8bwL8zAsKS)
 
 ❗ High Resolution and 90 meters world tilesets are in sale (offline usage) to support the project. Contact if interested
 
