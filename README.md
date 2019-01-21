@@ -1,6 +1,8 @@
 # Planet Terrain Server (PTS)
 
-❗ High Resolution and 90 meters world tilesets are in sale to support the project. Contact if interested
+❗ Support to go for public [HERE](https://www.patreon.com/terrainserver)
+
+❗ High Resolution and 90 meters world tilesets are in sale (offline usage) to support the project. Contact if interested
 
 ❗ Cesium ION Quality terrain is now live. You can see it on High resoluion terrain @ www.terrainserver.com
 
