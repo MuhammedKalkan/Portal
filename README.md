@@ -15,7 +15,7 @@ You can preview live demo [HERE](https://www.terrainserver.com/)
 
 ## Latest News (03.07.2019)
 
-I have been suffering server hardware problems, thus most of the time terrain data is down or in high resolution. I am trying to figure out a solution about it.
+I have been suffering server hardware problems, thus most of the time terrain data is down or not in high resolution. I am trying to figure out a solution about it.
 
 
 ![Preview1](https://2.bp.blogspot.com/--ulp-n-9Ugw/W91W7xCP3DI/AAAAAAAAAw0/U7ShtwoD1LoK1DgVrohl4NBnyAiEp5yEgCLcBGAs/s1600/1.png)
