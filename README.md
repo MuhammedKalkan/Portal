@@ -13,10 +13,11 @@ Blog about the project [HERE](http://blog.terrainserver.com/).
 
 You can preview live demo [HERE](https://www.terrainserver.com/) 
 
-## Latest News (03.07.2019)
+## Latest News (30.07.2019)
 
 I have been suffering server hardware problems, thus most of the time terrain data is down or not in high resolution. I am trying to figure out a solution about it.
 
+Finally resolved hardware and infra problems. Back online..
 
 ![Preview1](https://2.bp.blogspot.com/--ulp-n-9Ugw/W91W7xCP3DI/AAAAAAAAAw0/U7ShtwoD1LoK1DgVrohl4NBnyAiEp5yEgCLcBGAs/s1600/1.png)
 ![Preview2](https://4.bp.blogspot.com/-OywzUeELMVE/W91Xr0Q33TI/AAAAAAAAAw8/0sAYMTYsjEggiCB9i4oP9Ai5SO-YzfK9wCLcBGAs/s1600/2.png)
