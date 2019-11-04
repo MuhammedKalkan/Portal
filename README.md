@@ -15,7 +15,7 @@ PTS is a software that produces terrain data to be served primarily for [CesiumJ
 
 Twitter page [HERE](https://twitter.com/TerrainServer)
 
-Blog about the project [HERE](http://blog.terrainserver.com/).
+Blog about the project [HERE](https://terrainserver.blogspot.com).
 
 You can preview live demo [HERE](https://www.terrainserver.com/) 
 
