@@ -1,5 +1,6 @@
 # Planet Terrain Server (PTS)
 
+LOOKING FOR HOSTING SPONSORS
 
 ❗ High Resolution and 90 meters world tilesets are in sale (offline usage) to support the project. Contact [HERE](mailto:kalkanikbal@gmail.com) if interested
 
