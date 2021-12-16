@@ -2,7 +2,7 @@
 
 WE ARE BACK ONLINE
 
-❗ High Resolution and 90 meters world tilesets are in sale (offline usage) to support the project. Contact [HERE](mailto:kalkanikbal@gmail.com) if interested
+❗ High Resolution and 90 meters world tilesets are for sale (offline usage) to support the project. Contact [HERE](mailto:kalkanikbal@gmail.com) if interested
 
 ❗ Also it is possible to combine any of the DEMs included in high resolution terrain with your own DEMs, and generate a tileset suited for your needs. Contact [HERE](mailto:kalkanikbal@gmail.com) if interested
 
