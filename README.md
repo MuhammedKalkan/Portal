@@ -1,6 +1,6 @@
 # Planet Terrain Server (PTS)
 
-Follow Twitter account for announcements.
+Follow Twitter account for announcements. Twitter page [HERE](https://twitter.com/TerrainServer)
 
 You can preview live demo [HERE](https://www.terrainserver.com) 
 
@@ -19,7 +19,7 @@ You can preview live demo [HERE](https://www.terrainserver.com)
 
 PTS is a software that produces terrain data to be served primarily for [CesiumJS](cesiumjs.org) library.
 
-Twitter page [HERE](https://twitter.com/TerrainServer)
+
 
 
 ## Latest News (05.09.2019)
