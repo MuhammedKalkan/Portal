@@ -4,7 +4,9 @@ Follow Twitter account for announcements. Twitter page [HERE](https://twitter.co
 
 You can produce your own terrain and download now. Visit [PORTAL](https://portal.terrainserver.com) Beta
 
- ![Portal](https://dl.dropboxusercontent.com/s/v4o2zrs0841959n/portal.png)
+Watch video here : 
+
+ [![Portal](https://dl.dropboxusercontent.com/s/v4o2zrs0841959n/portal.png)](https://www.youtube.com/watch?v=ftvw7aptHng)
  
 https://user-images.githubusercontent.com/19736494/169021810-405b49bd-53e9-495f-a88f-53d3e80a5bd2.mp4
 
