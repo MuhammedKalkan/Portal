@@ -2,7 +2,7 @@
 
 Follow Twitter account for announcements. Twitter page [HERE](https://twitter.com/TerrainServer)
 
-You can produce your own terrain and download now. Visit [PORTAL](https://portal.terrainserver.com) Beta
+You can produce your own terrain and download now. Visit [PORTAL](https://portal.terrainserver.com)
 
 Watch video here : 
 
