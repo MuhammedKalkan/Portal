@@ -4,12 +4,12 @@ Follow Twitter account for announcements. Twitter page [HERE](https://twitter.co
 
 You can produce your own terrain and download now. Visit [PORTAL](https://portal.terrainserver.com)
 
-Some of users
+Some of our partners
 
 
 
-|[![Simplex](https://static.wixstatic.com/media/b9c5bc_cf0e6c37c3674a49bafde5b85453cdb5~mv2.png/v1/fill/w_302,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b9c5bc_cf0e6c37c3674a49bafde5b85453cdb5~mv2.png)](https://www.simplex-mapping.com/)|
-|:-----------------------:|
+|[![Simplex](https://static.wixstatic.com/media/b9c5bc_cf0e6c37c3674a49bafde5b85453cdb5~mv2.png/v1/fill/w_302,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b9c5bc_cf0e6c37c3674a49bafde5b85453cdb5~mv2.png)](https://www.simplex-mapping.com/)|[![Spacesium](https://www.spacesium.com/_nuxt/img/spacesium-logo.d7fafac.svg)](https://www.spacesium.com/)|
+|:-----------------------:|:-----------------------:|
 
 
 
