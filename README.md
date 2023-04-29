@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/19736494/169021810-405b49bd-53e9-495f-
  Please file an issue for any bugs or general questions.
  Email kalkanikbal@gmail.com for individual account questions
  
-## Details About PTS Generated Terrains
+## High Fidelity When Compared
 
 
 ![PTSvsION](https://dl.dropboxusercontent.com/s/4aw8pvcs904jc31/ionvspts.png)
