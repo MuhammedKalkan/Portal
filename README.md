@@ -1,4 +1,4 @@
-# Planet Terrain Server (PTS) is now PORTAL
+# PORTAL - Planetary Terrain Models
 
 Follow Twitter account for announcements. Twitter page [HERE](https://twitter.com/TerrainServer)
 
